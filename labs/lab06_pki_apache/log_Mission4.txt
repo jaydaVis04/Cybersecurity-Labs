@@ -1,0 +1,639 @@
+f9j8c85f4db7a0fc3de0bb2e10a2c054024
+====================================================
+Mission 4: Forrest Gump (80 pts)
+Name: jaydyn2
+Grade: 80.0 pts
+Time Spent: 571 seconds	Accumuated: 3979 seconds
+Timestamp: Tue Nov 12 23:11:12 2024
+
+====================================================
+QID  Title               Pts     Time   QID  Title               Pts     Time   
+----------------------------------------------------
+1    Jenny's Msg         10.0/10 105    2    Bubba-Gump Fish     20.0/20 178    3    Austin Power's CA   30.0/30 286    4    Deploy              20.0/20 2      
+----------------------------------------------------
+Enter question ID (e.g., 1) to redo a question or hit Q to quit
+%13792012345-------------
+100%139209234----
+105%139209234----
+105%139209234----
+EMPTY-------------------------------------------
+	Q1. Jenny's Msg
+-------------------------------------------
+This assignment is named after Forrest Gump, Dr. Evil's favorite.
+
+To accomplish the job, please navigate to the following directory:
+	 cd /home/csc15s/mis4/rsa
+
+
+
+Ready? Press ENTER to continue
+In the working directory: /home/csc15s/mis4/rsa, you will find Gump's private and public keys in PEM. Jenny has just sent a secret message to Gump using his PUBLIC KEY.
+
+Your job is to decode this message using Gump's private key.
+
+Hint: Dr. Evil has not covered anything related to RSA encryption using openssl. You'll need to find out the corresponding Linux command. Try 'rsautl' of openssl.
+Please paste Jenny's message below:  (attempt 1 of 3)
+Do you ever dream?
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Jenny's Msg
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 105 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+178%139209234----
+2940%139209234----
+EMPTY-------------------------------------------
+	Q2. Bubba-Gump Fish
+-------------------------------------------
+Gump and Bubba are now going to start up their own business in fishing. They are building a website right now. It is deployed at:
+https://localhost/
+
+All the files needed for configuring HTTPS are saved in the following directory. Please navigate to it first:
+	 cd /home/csc15s/mis4/cert
+
+
+
+Ready? Press ENTER to continue
+Q1. Startup
+
+You can use a browser to visit Bubba and Gump's website. It's deployed here: 
+https://localhost/
+
+Pay special attention that Dr. Evil did some trick on their SSL certificate. Find out what is currently the registered  organization name right now?
+Hint: This can be accomplished either by directly viewing the certificate in browser, or using the 'openssl s_client -connect' command introduced in class.
+
+Please paste the Organization (O) value below:  (attempt 1 of 2)
+/etc/apache2/sites-enabled/000-default-ssl.conf
+Incorrect!
+ Hint: the 1st letter is 'E' 
+Please paste the Organization (O) value below:  (attempt 2 of 2)
+etc/apache2/sites-enabled/000-default-ssl.conf
+Incorrect!
+ Hint: the last letter is 'e' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. DIY CSR
+
+Gump decides to get another certificate from Austin Power, who owns a root CA. Before getting certified, Gump needs to prepare a  Certificate Signing Request (CSR). 
+Pay special attention to the following requirements:
+	(1) Gump already has his keys in the current working directory. The CSR should request for signing the existing  public key (gump_pubkey.pem)  - That is, the certificate is about binding gump_pubkey.pem to  BubbaGumpFish. However, notice that when generating the request, you are supplying the private key - actually to prove that you own the public key.
+	(2) The registration information should use the following (word by word and case sensitive):
+C = US, ST = NY, L = Hempstead, O = BubbaGumpFish, OU = CS, CN = localhost, emailAddress = gump@bubbagumpfish.com
+
+	(3) The CSR file should be named as bubbagump.csr and be placed in the current working directory.
+ Hint: after the csr file is generated, you can use 'openssl req -in bubbagump.csr -text -noout' to verify.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 2 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 3 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Not working.  Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Bubba-Gump Fish
+Total Points Available: 20, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 453 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Bubba-Gump Fish
+-------------------------------------------
+Gump and Bubba are now going to start up their own business in fishing. They are building a website right now. It is deployed at:
+https://localhost/
+
+All the files needed for configuring HTTPS are saved in the following directory. Please navigate to it first:
+	 cd /home/csc15s/mis4/cert
+
+
+
+Ready? Press ENTER to continue
+Q1. Startup
+
+You can use a browser to visit Bubba and Gump's website. It's deployed here: 
+https://localhost/
+
+Pay special attention that Dr. Evil did some trick on their SSL certificate. Find out what is currently the registered  organization name right now?
+Hint: This can be accomplished either by directly viewing the certificate in browser, or using the 'openssl s_client -connect' command introduced in class.
+
+Please paste the Organization (O) value below:  (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is 'E' 
+Please paste the Organization (O) value below:  (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is 'e' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. DIY CSR
+
+Gump decides to get another certificate from Austin Power, who owns a root CA. Before getting certified, Gump needs to prepare a  Certificate Signing Request (CSR). 
+Pay special attention to the following requirements:
+	(1) Gump already has his keys in the current working directory. The CSR should request for signing the existing  public key (gump_pubkey.pem)  - That is, the certificate is about binding gump_pubkey.pem to  BubbaGumpFish. However, notice that when generating the request, you are supplying the private key - actually to prove that you own the public key.
+	(2) The registration information should use the following (word by word and case sensitive):
+C = US, ST = NY, L = Hempstead, O = BubbaGumpFish, OU = CS, CN = localhost, emailAddress = gump@bubbagumpfish.com
+
+	(3) The CSR file should be named as bubbagump.csr and be placed in the current working directory.
+ Hint: after the csr file is generated, you can use 'openssl req -in bubbagump.csr -text -noout' to verify.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 2 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 3 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Bubba-Gump Fish
+Total Points Available: 20, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 228 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Bubba-Gump Fish
+-------------------------------------------
+Gump and Bubba are now going to start up their own business in fishing. They are building a website right now. It is deployed at:
+https://localhost/
+
+All the files needed for configuring HTTPS are saved in the following directory. Please navigate to it first:
+	 cd /home/csc15s/mis4/cert
+
+
+
+Ready? Press ENTER to continue
+Q1. Startup
+
+You can use a browser to visit Bubba and Gump's website. It's deployed here: 
+https://localhost/
+
+Pay special attention that Dr. Evil did some trick on their SSL certificate. Find out what is currently the registered  organization name right now?
+Hint: This can be accomplished either by directly viewing the certificate in browser, or using the 'openssl s_client -connect' command introduced in class.
+
+Please paste the Organization (O) value below:  (attempt 1 of 2)
+testing
+Incorrect!
+ Hint: the 1st letter is 'E' 
+Please paste the Organization (O) value below:  (attempt 2 of 2)
+EvilCorp
+Incorrect!
+ Hint: the last letter is 'e' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. DIY CSR
+
+Gump decides to get another certificate from Austin Power, who owns a root CA. Before getting certified, Gump needs to prepare a  Certificate Signing Request (CSR). 
+Pay special attention to the following requirements:
+	(1) Gump already has his keys in the current working directory. The CSR should request for signing the existing  public key (gump_pubkey.pem)  - That is, the certificate is about binding gump_pubkey.pem to  BubbaGumpFish. However, notice that when generating the request, you are supplying the private key - actually to prove that you own the public key.
+	(2) The registration information should use the following (word by word and case sensitive):
+C = US, ST = NY, L = Hempstead, O = BubbaGumpFish, OU = CS, CN = localhost, emailAddress = gump@bubbagumpfish.com
+
+	(3) The CSR file should be named as bubbagump.csr and be placed in the current working directory.
+ Hint: after the csr file is generated, you can use 'openssl req -in bubbagump.csr -text -noout' to verify.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 2 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 3 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Bubba-Gump Fish
+Total Points Available: 20, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 997 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 0.0 out of 20 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 500 seconds: 0%
+  < 2* expected time: 1000 seconds: 20%
+  < 3* expected time: 1500 seconds: 30%
+  < 4* expected time: 2000 seconds: 40%
+  >= 4* expected time: 2000 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Bubba-Gump Fish
+-------------------------------------------
+Gump and Bubba are now going to start up their own business in fishing. They are building a website right now. It is deployed at:
+https://localhost/
+
+All the files needed for configuring HTTPS are saved in the following directory. Please navigate to it first:
+	 cd /home/csc15s/mis4/cert
+
+
+
+Ready? Press ENTER to continue
+Q1. Startup
+
+You can use a browser to visit Bubba and Gump's website. It's deployed here: 
+https://localhost/
+
+Pay special attention that Dr. Evil did some trick on their SSL certificate. Find out what is currently the registered  organization name right now?
+Hint: This can be accomplished either by directly viewing the certificate in browser, or using the 'openssl s_client -connect' command introduced in class.
+
+Please paste the Organization (O) value below:  (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is 'E' 
+Please paste the Organization (O) value below:  (attempt 2 of 2)
+EvilEnterprise
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. DIY CSR
+
+Gump decides to get another certificate from Austin Power, who owns a root CA. Before getting certified, Gump needs to prepare a  Certificate Signing Request (CSR). 
+Pay special attention to the following requirements:
+	(1) Gump already has his keys in the current working directory. The CSR should request for signing the existing  public key (gump_pubkey.pem)  - That is, the certificate is about binding gump_pubkey.pem to  BubbaGumpFish. However, notice that when generating the request, you are supplying the private key - actually to prove that you own the public key.
+	(2) The registration information should use the following (word by word and case sensitive):
+C = US, ST = NY, L = Hempstead, O = BubbaGumpFish, OU = CS, CN = localhost, emailAddress = gump@bubbagumpfish.com
+
+	(3) The CSR file should be named as bubbagump.csr and be placed in the current working directory.
+ Hint: after the csr file is generated, you can use 'openssl req -in bubbagump.csr -text -noout' to verify.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 2 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 3 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+You can try it again later. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Bubba-Gump Fish
+Total Points Available: 20, Expected Time to Complete: 500 sec
+Completion: 40%, Time Spent: 789 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 6.40 out of 20 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 500 seconds: 0%
+  < 2* expected time: 1000 seconds: 20%
+  < 3* expected time: 1500 seconds: 30%
+  < 4* expected time: 2000 seconds: 40%
+  >= 4* expected time: 2000 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Bubba-Gump Fish
+-------------------------------------------
+Gump and Bubba are now going to start up their own business in fishing. They are building a website right now. It is deployed at:
+https://localhost/
+
+All the files needed for configuring HTTPS are saved in the following directory. Please navigate to it first:
+	 cd /home/csc15s/mis4/cert
+
+
+
+Ready? Press ENTER to continue
+Q1. Startup
+
+You can use a browser to visit Bubba and Gump's website. It's deployed here: 
+https://localhost/
+
+Pay special attention that Dr. Evil did some trick on their SSL certificate. Find out what is currently the registered  organization name right now?
+Hint: This can be accomplished either by directly viewing the certificate in browser, or using the 'openssl s_client -connect' command introduced in class.
+
+Please paste the Organization (O) value below:  (attempt 1 of 2)
+EvilEnterprise
+Correct! Now move to next ... Hit ENTER to continue
+\
+Q2. DIY CSR
+
+Gump decides to get another certificate from Austin Power, who owns a root CA. Before getting certified, Gump needs to prepare a  Certificate Signing Request (CSR). 
+Pay special attention to the following requirements:
+	(1) Gump already has his keys in the current working directory. The CSR should request for signing the existing  public key (gump_pubkey.pem)  - That is, the certificate is about binding gump_pubkey.pem to  BubbaGumpFish. However, notice that when generating the request, you are supplying the private key - actually to prove that you own the public key.
+	(2) The registration information should use the following (word by word and case sensitive):
+C = US, ST = NY, L = Hempstead, O = BubbaGumpFish, OU = CS, CN = localhost, emailAddress = gump@bubbagumpfish.com
+
+	(3) The CSR file should be named as bubbagump.csr and be placed in the current working directory.
+ Hint: after the csr file is generated, you can use 'openssl req -in bubbagump.csr -text -noout' to verify.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 2 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Attempt 3 of 3
+Press ENTER when you are ready do demo.
+
+CSR file: /home/csc15s/mis4/cert/bubbagump.csr does not exist!
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Bubba-Gump Fish
+Total Points Available: 20, Expected Time to Complete: 500 sec
+Completion: 40%, Time Spent: 295 sec, Accumulated Time:  0 
+Earned Points: 8.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Bubba-Gump Fish
+-------------------------------------------
+Gump and Bubba are now going to start up their own business in fishing. They are building a website right now. It is deployed at:
+https://localhost/
+
+All the files needed for configuring HTTPS are saved in the following directory. Please navigate to it first:
+	 cd /home/csc15s/mis4/cert
+
+
+
+Ready? Press ENTER to continue
+Q1. Startup
+
+You can use a browser to visit Bubba and Gump's website. It's deployed here: 
+https://localhost/
+
+Pay special attention that Dr. Evil did some trick on their SSL certificate. Find out what is currently the registered  organization name right now?
+Hint: This can be accomplished either by directly viewing the certificate in browser, or using the 'openssl s_client -connect' command introduced in class.
+
+Please paste the Organization (O) value below:  (attempt 1 of 2)
+EvilEnterprise
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. DIY CSR
+
+Gump decides to get another certificate from Austin Power, who owns a root CA. Before getting certified, Gump needs to prepare a  Certificate Signing Request (CSR). 
+Pay special attention to the following requirements:
+	(1) Gump already has his keys in the current working directory. The CSR should request for signing the existing  public key (gump_pubkey.pem)  - That is, the certificate is about binding gump_pubkey.pem to  BubbaGumpFish. However, notice that when generating the request, you are supplying the private key - actually to prove that you own the public key.
+	(2) The registration information should use the following (word by word and case sensitive):
+C = US, ST = NY, L = Hempstead, O = BubbaGumpFish, OU = CS, CN = localhost, emailAddress = gump@bubbagumpfish.com
+
+	(3) The CSR file should be named as bubbagump.csr and be placed in the current working directory.
+ Hint: after the csr file is generated, you can use 'openssl req -in bubbagump.csr -text -noout' to verify.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+
+Nice! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Bubba-Gump Fish
+Total Points Available: 20, Expected Time to Complete: 500 sec
+Completion: 100%, Time Spent: 178 sec, Accumulated Time:  0 
+Earned Points: 20.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+286%139209234----
+391%139209234----
+EMPTY-------------------------------------------
+	Q3. Austin Power's CA
+-------------------------------------------
+Austin Power owns an Certificate Authorization Center. There are two important files:
+	(1) signkey.pem - this is the secret key of Austin, which he uses to sign certificate requests.
+	(2) austin_ca.crt - this is the certificate of Austin Power's CA center. It is public for download and people can use it to verify the certificates issued by Austin.
+
+
+
+Ready? Press ENTER to continue
+Q1. Make Money.
+
+Now assume that you are Austin Power. You have received the CSR request (buggagump.csr) from Gump.
+Your job: Sign the CSR and generate the certificate using your private key:  signkey.pem.This can be easily accomplished using 'openssl x509 ...' commands introduced in class. 
+You need to save the certificate as: bubbagump.crt
+
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+Certificate /home/csc15s/mis4/cert/bubbagump.crt does not exist!
+
+Attempt 2 of 3
+Press ENTER when you are ready do demo.
+
+Certificate /home/csc15s/mis4/cert/bubbagump.crt does not exist!
+
+Attempt 3 of 3
+Press ENTER when you are ready do demo.
+
+Certificate /home/csc15s/mis4/cert/bubbagump.crt does not exist!
+
+You can try it again later. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q3. Austin Power's CA
+Total Points Available: 30, Expected Time to Complete: 600 sec
+Completion: 0%, Time Spent: 105 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 30 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Austin Power's CA
+-------------------------------------------
+Austin Power owns an Certificate Authorization Center. There are two important files:
+	(1) signkey.pem - this is the secret key of Austin, which he uses to sign certificate requests.
+	(2) austin_ca.crt - this is the certificate of Austin Power's CA center. It is public for download and people can use it to verify the certificates issued by Austin.
+
+
+
+Ready? Press ENTER to continue
+Q1. Make Money.
+
+Now assume that you are Austin Power. You have received the CSR request (buggagump.csr) from Gump.
+Your job: Sign the CSR and generate the certificate using your private key:  signkey.pem.This can be easily accomplished using 'openssl x509 ...' commands introduced in class. 
+You need to save the certificate as: bubbagump.crt
+
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+
+Nice! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q3. Austin Power's CA
+Total Points Available: 30, Expected Time to Complete: 600 sec
+Completion: 100%, Time Spent: 286 sec, Accumulated Time:  0 
+Earned Points: 30.0 out of 30 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+2%139209234----
+543%139209234----
+EMPTY-------------------------------------------
+	Q4. Deploy
+-------------------------------------------
+Now it's time to deploy Gump's self-signed certificate. We assume that all the related private/public key files and bubbagump.crt are located in /home/csc15s/mis4/cert 
+
+
+Ready? Press ENTER to continue
+Q1. Config.
+
+You need to inform the apache server: where is your private key and certificate.
+
+It is known that the configuration files of apache2 is located in folder /etc/apache2. However, there are many of them! The question is: 
+	 Which one specifies the HTTPS/SSL key and certificate path?
+
+Hint: search for keyword: SSLCertificateFile , and use the one in folder sites-enabled. The file specifies the configuration for port 443, and that is the HTTPS port.
+
+Please paste the absolute file path of the config file below:  (attempt 1 of 4)
+/etc/apache2/sites-enabled/000-default-ssl.conf
+Correct! Now move to next ... Hit ENTER to continue
+
+
+Good job! Press ENTER to continue.
+
+Q2. Apache.
+
+Your last job today is to deploy the key and the certificate!
+We suggest that do not modify the configuration file. Instead, copy your private key and certificate files into the corresponding apache config folders. Note that you will have to rename your files, e.g., as server.key.
+
+Note that all your files are located at: 
+	/home/csc15s/mis4/cert
+Once you've finished the sudo copy. You can restart the apache service by the following command:
+	sudo service apache2 restart
+You can verify if your certificate is deployed right: see if the organization name is changed to: BubbaGumpFish
+Verification can be done using browser or the following command:
+	openssl s_client -connect localhost:443 --showcerts
+If there is anything wrong with config, apache will report problems in: /var/log/apache2/error.log, scroll to the end of the file for the latest issues.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+
+Good job! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q4. Deploy
+Total Points Available: 20, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 541 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 16.0 out of 20 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 300 seconds: 0%
+  < 2* expected time: 600 seconds: 20%
+  < 3* expected time: 900 seconds: 30%
+  < 4* expected time: 1200 seconds: 40%
+  >= 4* expected time: 1200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q4. Deploy
+-------------------------------------------
+Now it's time to deploy Gump's self-signed certificate. We assume that all the related private/public key files and bubbagump.crt are located in /home/csc15s/mis4/cert 
+
+
+Ready? Press ENTER to continue
+Q1. Config.
+
+You need to inform the apache server: where is your private key and certificate.
+
+It is known that the configuration files of apache2 is located in folder /etc/apache2. However, there are many of them! The question is: 
+	 Which one specifies the HTTPS/SSL key and certificate path?
+
+Hint: search for keyword: SSLCertificateFile , and use the one in folder sites-enabled. The file specifies the configuration for port 443, and that is the HTTPS port.
+
+Please paste the absolute file path of the config file below:  (attempt 1 of 4)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Please paste the absolute file path of the config file below:  (attempt 2 of 4)
+
+Incorrect!
+ Hint: the last letter is 'f' 
+Please paste the absolute file path of the config file below:  (attempt 3 of 4)
+
+Incorrect!
+ Hint: the 2nd letter is 'e' 
+Please paste the absolute file path of the config file below:  (attempt 4 of 4)
+
+Incorrect!
+ Hint: the 2nd letter is 'e' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+
+You can try it again later. Press ENTER to continue.
+
+Q2. Apache.
+
+Your last job today is to deploy the key and the certificate!
+We suggest that do not modify the configuration file. Instead, copy your private key and certificate files into the corresponding apache config folders. Note that you will have to rename your files, e.g., as server.key.
+
+Note that all your files are located at: 
+	/home/csc15s/mis4/cert
+Once you've finished the sudo copy. You can restart the apache service by the following command:
+	sudo service apache2 restart
+You can verify if your certificate is deployed right: see if the organization name is changed to: BubbaGumpFish
+Verification can be done using browser or the following command:
+	openssl s_client -connect localhost:443 --showcerts
+If there is anything wrong with config, apache will report problems in: /var/log/apache2/error.log, scroll to the end of the file for the latest issues.
+
+Attempt 1 of 3
+Press ENTER when you are ready do demo.
+
+
+Well done. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q4. Deploy
+Total Points Available: 20, Expected Time to Complete: 300 sec
+Completion: 60%, Time Spent: 2 sec, Accumulated Time:  0 
+Earned Points: 12.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+

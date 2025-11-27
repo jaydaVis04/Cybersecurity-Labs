@@ -1,0 +1,1290 @@
+f8J8934f5f391e4d7524b25b4562539f0bc
+====================================================
+Mission2: Dungeon of Linux Files (80 pts)
+Name: Jaydyn
+Grade: 80.0 pts
+Time Spent: 1095 seconds	Accumuated: 4877 seconds
+Timestamp: Fri Oct 11 23:17:02 2024
+
+====================================================
+QID  Title               Pts     Time   QID  Title               Pts     Time   
+----------------------------------------------------
+1    Checksum            10.0/10 1      2    Set SUID            15.0/15 412    3    File Info           10.0/10 237    4    Sed, Echo & Cat     10.0/10 136    5    Mission Impossible  15.0/15 2      6    Chain of Cmds       20.0/20 307    
+----------------------------------------------------
+Enter question ID (e.g., 1) to redo a question or hit Q to quit
+%13792012345-------------
+100%139209234----
+1%139209234----
+788%139209234----
+EMPTY-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+
+Incorrect!
+ Hint: the 1st letter is 'Y' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 101 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+
+Incorrect!
+ Hint: the 1st letter is 'Q' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 107 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+drevil.txt
+Incorrect!
+ Hint: the 1st letter is 'Q' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 53 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+
+Incorrect!
+ Hint: the 1st letter is 'A' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 15 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+drevil.txt
+Incorrect!
+ Hint: the 1st letter is 'C' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 84 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+
+Incorrect!
+ Hint: the 1st letter is 'Y' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 226 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 0.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 150 seconds: 0%
+  < 2* expected time: 300 seconds: 20%
+  < 3* expected time: 450 seconds: 30%
+  < 4* expected time: 600 seconds: 40%
+  >= 4* expected time: 600 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+Your ext assignment is to send a rocket to Moon!
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 100%, Time Spent: 46 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+Quiz  is easy!
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 100%, Time Spent: 155 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 8.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 150 seconds: 0%
+  < 2* expected time: 300 seconds: 20%
+  < 3* expected time: 450 seconds: 30%
+  < 4* expected time: 600 seconds: 40%
+  >= 4* expected time: 600 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Checksum
+-------------------------------------------
+Each member of Dr. Evil's team has made a one line statement in a text file in directory /home/csc15s/mis2/checksum. They are: 
+	 drevil.txt
+	 minime.txt
+	 numbertwo.txt
+	 austinpowers.txt
+However, ONE and only ONE statement is a lie. Please use md5 to find out which is the lie. All the checksums are contained in md5.txt
+
+
+Please paste the LIE below (It is a one line sentence that is contained in the corrupted file. For example, it looks like 'Assignment 4 is easy!'.  (attempt 1 of 1)
+
+Incorrect!
+ Hint: the 1st letter is 'Q' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q1. Checksum
+Total Points Available: 10, Expected Time to Complete: 150 sec
+Completion: 0%, Time Spent: 1 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+412%139209234----
+2302%139209234----
+EMPTY-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r----s---
+Press ENTER when ready.
+>>
+The expected permission is: r----s---, but the actual permission is --xr-s--x
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rwx--xr--
+Press ENTER when ready.
+>>
+The expected permission is: rwx--xr--, but the actual permission is --xr-s--x
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-wx-w-r--
+Press ENTER when ready.
+>>
+The expected permission is: -wx-w-r--, but the actual permission is --xr-s--x
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--x-ws--x
+Press ENTER when ready.
+>>
+The expected permission is: --x-ws--x, but the actual permission is --xr-s--x
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-s-ws-w-
+Press ENTER when ready.
+>>
+The expected permission is: r-s-ws-w-, but the actual permission is --xr-s--x
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 60 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rwsrws-w-
+Press ENTER when ready.
+>>
+The expected permission is: rwsrws-w-, but the actual permission is rwsrwx-w-
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-srwsr--
+Press ENTER when ready.
+>>
+The expected permission is: r-srwsr--, but the actual permission is rwsrwx-w-
+
+Failed the challenge ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r--rwsr--
+Press ENTER when ready.
+>>
+The expected permission is: r--rwsr--, but the actual permission is rwsrwx-w-
+
+It's still not working. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-s-wxrwx
+Press ENTER when ready.
+>>
+The expected permission is: r-s-wxrwx, but the actual permission is rwsrwx-w-
+
+You can try it again later. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rw-r-s-wx
+Press ENTER when ready.
+>>
+The expected permission is: rw-r-s-wx, but the actual permission is rwsrwx-w-
+
+Failed ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 209 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-wsrw----
+Press ENTER when ready.
+>>
+The expected permission is: -wsrw----, but the actual permission is rwS------
+
+Failed the challenge ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--sr-s---
+Press ENTER when ready.
+>>
+The expected permission is: --sr-s---, but the actual permission is rwS------
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--s--s-wx
+Press ENTER when ready.
+>>
+The expected permission is: --s--s-wx, but the actual permission is rwS------
+
+Failed the challenge ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rw--ws-wx
+Press ENTER when ready.
+>>
+The expected permission is: rw--ws-wx, but the actual permission is rwS------
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-xr-xr--
+Press ENTER when ready.
+>>
+The expected permission is: r-xr-xr--, but the actual permission is rwS------
+
+Failed ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 141 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-wx---r--
+Press ENTER when ready.
+>>
+
+Super! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rwsrwsrw-
+Press ENTER when ready.
+>>
+The expected permission is: rwsrwsrw-, but the actual permission is rwxrwxrw-
+
+It's still not working. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rws--srw-
+Press ENTER when ready.
+>>
+The expected permission is: rws--srw-, but the actual permission is rwsrwsrw-
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r--rwxr-x
+Press ENTER when ready.
+>>
+The expected permission is: r--rwxr-x, but the actual permission is rwsrwsrw-
+
+It's still not working. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-s-ws-w-
+Press ENTER when ready.
+>>
+The expected permission is: r-s-ws-w-, but the actual permission is rwsrwsrw-
+
+You can try it again later. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 20%, Time Spent: 447 sec, Accumulated Time:  0 
+Earned Points: 3.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	------r--
+Press ENTER when ready.
+>>
+The expected permission is: ------r--, but the actual permission is ------r-T
+
+It's still not working. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--x-ws--x
+Press ENTER when ready.
+>>
+The expected permission is: --x-ws--x, but the actual permission is ------r-T
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rws--sr-x
+Press ENTER when ready.
+>>
+The expected permission is: rws--sr-x, but the actual permission is ------r-T
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-wx--s-wx
+Press ENTER when ready.
+>>
+The expected permission is: -wx--s-wx, but the actual permission is ------r-T
+
+You can try it again later. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	----wsr--
+Press ENTER when ready.
+>>
+The expected permission is: ----wsr--, but the actual permission is ------r-T
+
+It's still not working. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 180 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-w----rwx
+Press ENTER when ready.
+>>
+
+Done! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--sr-s--x
+Press ENTER when ready.
+>>
+The expected permission is: --sr-s--x, but the actual permission is r-sr-s--x
+
+You can try it again later. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-w---xr--
+Press ENTER when ready.
+>>
+
+Good job! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r----s--x
+Press ENTER when ready.
+>>
+The expected permission is: r----s--x, but the actual permission is --Sr-x--x
+
+You can try it again later. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r--rwsr--
+Press ENTER when ready.
+>>
+The expected permission is: r--rwsr--, but the actual permission is rwSr-xr--
+
+It's still not working. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 40%, Time Spent: 230 sec, Accumulated Time:  0 
+Earned Points: 6.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-w--ws-wx
+Press ENTER when ready.
+>>
+The expected permission is: -w--ws-wx, but the actual permission is -wxrwS-wx
+
+You can try it again later. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-s-wx-wx
+Press ENTER when ready.
+>>
+The expected permission is: r-s-wx-wx, but the actual permission is -wxrwS-wx
+
+Failed the challenge ... Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rw-r-xr--
+Press ENTER when ready.
+>>
+The expected permission is: rw-r-xr--, but the actual permission is -wxrwS-wx
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--sr-xrwx
+Press ENTER when ready.
+>>
+The expected permission is: --sr-xrwx, but the actual permission is -wxrwS-wx
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-s--srwx
+Press ENTER when ready.
+>>
+The expected permission is: r-s--srwx, but the actual permission is -wxrwS-wx
+
+Not working.  Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 224 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-wx--s-w-
+Press ENTER when ready.
+>>
+
+Nice! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-w---sr-x
+Press ENTER when ready.
+>>
+
+Good job! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	r-x--srw-
+Press ENTER when ready.
+>>
+The expected permission is: r-x--srw-, but the actual permission is r-x--xrwT
+
+Not working.  Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--x-----x
+Press ENTER when ready.
+>>
+The expected permission is: --x-----x, but the actual permission is r-x--xrwT
+
+You can try it again later. Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-w-r-s-w-
+Press ENTER when ready.
+>>
+The expected permission is: -w-r-s-w-, but the actual permission is r-x--xrwT
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 40%, Time Spent: 399 sec, Accumulated Time:  0 
+Earned Points: 6.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Set SUID
+-------------------------------------------
+This challenge will help you to practice the use of chmod on SUID programs. Please execute the following command first. There is a file named 'hackme.sh' in the directory.
+	 cd /home/csc15s/mis2/chmod_suid
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rwsr-xr--
+Press ENTER when ready.
+>>
+
+Nice! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	-wxrwx-w-
+Press ENTER when ready.
+>>
+
+Super! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	rw-r-s--x
+Press ENTER when ready.
+>>
+
+Nice! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--s-w---x
+Press ENTER when ready.
+>>
+
+Done! Press ENTER to continue.
+
+Please set the permission bits of hackme.sh as the following. You have to change its owner:group to root:root.
+	--x--sr--
+Press ENTER when ready.
+>>
+
+Good job! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q2. Set SUID
+Total Points Available: 15, Expected Time to Complete: 500 sec
+Completion: 100%, Time Spent: 412 sec, Accumulated Time:  0 
+Earned Points: 15.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+237%139209234----
+745%139209234----
+EMPTY-------------------------------------------
+	Q3. File Info
+-------------------------------------------
+This challenge practices the use of a variety commands for reading information from files. Please enter the following directory first:
+	 cd /home/csc15s/mis2/fileinfo
+Press ENTER to Continue
+
+Q1. How many users are there in this system? Hint: count the number of lines of passwd file. (attempt 1 of 2)
+47
+Correct! Now move to next ... Hit ENTER to continue
+77
+Q2. How many groups are there in this system? Hint: count the number of lines of group file in /etc. (attempt 1 of 2)
+/bin/rmdir
+Incorrect!
+ Q2. How many groups are there in this system? Hint: count the number of lines of group file in /etc. (attempt 2 of 2)
+77
+Correct! Now move to next ... Hit ENTER to continue
+
+Q3. What is the absolute path for command 'rmdir'? Hint: use the 'which' command to find it out. (attempt 1 of 2)
+/bin/rmdir
+Correct! Now move to next ... Hit ENTER to continue
+
+Q4. A  binary executable  is a file that consists of binary machine instructions and it is executable. Note: A shell script is not a binary executable.
+ Please make sure that your current directory is: 
+	 /home/csc15s/mis2/fileinfo
+
+ What is the name of the binary executable file in the current directory?
+Please enter the file name only (not the path).
+Hint: you just need to use one 'file' command with a wild card match. (attempt 1 of 2)
+rocket.bin
+Correct! Now move to next ... Hit ENTER to continue
+
+Q5. Your job is to find out the hex value of the first byte of 
+ 	 /home/csc15s/mis2/fileinfo/rocket.bin 
+Hint: use command 'xxd' with file redirection. Please note that we are expecting a two-digit hex number, e.g., 'a5'. All letters appeared should be lower case!
+ (attempt 1 of 2)
+7f45
+Incorrect!
+ Hint: use command 'xxd' with file redirection. Please note that we are expecting a two-digit hex number, e.g., 'a5'. All letters appeared should be lower case!
+ (attempt 2 of 2)
+7f
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. File Info
+Total Points Available: 10, Expected Time to Complete: 500 sec
+Completion: 100%, Time Spent: 503 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 8.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 500 seconds: 0%
+  < 2* expected time: 1000 seconds: 20%
+  < 3* expected time: 1500 seconds: 30%
+  < 4* expected time: 2000 seconds: 40%
+  >= 4* expected time: 2000 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. File Info
+-------------------------------------------
+This challenge practices the use of a variety commands for reading information from files. Please enter the following directory first:
+	 cd /home/csc15s/mis2/fileinfo
+Press ENTER to Continue
+
+Q1. How many users are there in this system? Hint: count the number of lines of passwd file. (attempt 1 of 2)
+
+Incorrect!
+ Q1. How many users are there in this system? Hint: count the number of lines of passwd file. (attempt 2 of 2)
+
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. How many groups are there in this system? Hint: count the number of lines of group file in /etc. (attempt 1 of 2)
+
+Incorrect!
+ Q2. How many groups are there in this system? Hint: count the number of lines of group file in /etc. (attempt 2 of 2)
+
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+Q3. What is the absolute path for command 'rmdir'? Hint: use the 'which' command to find it out. (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Q3. What is the absolute path for command 'rmdir'? Hint: use the 'which' command to find it out. (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is '
+' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q4. A  binary executable  is a file that consists of binary machine instructions and it is executable. Note: A shell script is not a binary executable.
+ Please make sure that your current directory is: 
+	 /home/csc15s/mis2/fileinfo
+
+ What is the name of the binary executable file in the current directory?
+Please enter the file name only (not the path).
+Hint: you just need to use one 'file' command with a wild card match. (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is 's' 
+ What is the name of the binary executable file in the current directory?
+Please enter the file name only (not the path).
+Hint: you just need to use one 'file' command with a wild card match. (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is 'n' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q5. Your job is to find out the hex value of the first byte of 
+ 	 /home/csc15s/mis2/fileinfo/star.bin 
+Hint: use command 'xxd' with file redirection. Please note that we are expecting a two-digit hex number, e.g., 'a5'. All letters appeared should be lower case!
+ (attempt 1 of 2)
+
+Incorrect!
+ Hint: use command 'xxd' with file redirection. Please note that we are expecting a two-digit hex number, e.g., 'a5'. All letters appeared should be lower case!
+ (attempt 2 of 2)
+
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. File Info
+Total Points Available: 10, Expected Time to Complete: 500 sec
+Completion: 0%, Time Spent: 5 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. File Info
+-------------------------------------------
+This challenge practices the use of a variety commands for reading information from files. Please enter the following directory first:
+	 cd /home/csc15s/mis2/fileinfo
+Press ENTER to Continue
+
+Q1. How many users are there in this system? Hint: count the number of lines of passwd file. (attempt 1 of 2)
+47
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. How many groups are there in this system? Hint: count the number of lines of group file in /etc. (attempt 1 of 2)
+77
+Correct! Now move to next ... Hit ENTER to continue
+
+Q3. What is the absolute path for command 'rmdir'? Hint: use the 'which' command to find it out. (attempt 1 of 2)
+/bin/rmdir
+Correct! Now move to next ... Hit ENTER to continue
+
+Q4. A  binary executable  is a file that consists of binary machine instructions and it is executable. Note: A shell script is not a binary executable.
+ Please make sure that your current directory is: 
+	 /home/csc15s/mis2/fileinfo
+
+ What is the name of the binary executable file in the current directory?
+Please enter the file name only (not the path).
+Hint: you just need to use one 'file' command with a wild card match. (attempt 1 of 2)
+lunch.bin
+Correct! Now move to next ... Hit ENTER to continue
+
+Q5. Your job is to find out the hex value of the first byte of 
+ 	 /home/csc15s/mis2/fileinfo/lunch.bin 
+Hint: use command 'xxd' with file redirection. Please note that we are expecting a two-digit hex number, e.g., 'a5'. All letters appeared should be lower case!
+ (attempt 1 of 2)
+7f
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. File Info
+Total Points Available: 10, Expected Time to Complete: 500 sec
+Completion: 100%, Time Spent: 237 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+136%139209234----
+139%139209234----
+EMPTY-------------------------------------------
+	Q4. Sed, Echo & Cat
+-------------------------------------------
+In many cases, some Linux commands such as echo, cat, sed when combined with file redirection (> and >>), can create files quicker than VIM. This practice will help you to get familiar with these commands for some very typical editing tasks that you would encounter during coding.
+Please navigate to the following directory first.
+
+	 cd /home/csc15s/mis2/sed_cat
+Press ENTER to Continue
+
+Q1. echo echo ...
+  Create file evil.txt with one line of 3 letters 'win'. Please use echo and file redirection. 
+Press ENTER when complete.
+file /home/csc15s/mis2/sed_cat/evil.txt does not exist!
+
+It's still not working. Press ENTER to continue.
+
+Q2. cat - to concatenate ...
+ In many web projects, tools like jscompress obfuscates  javascript source code by first concatenating them and then replace their variable names by random strings so that the source code would be hard to understand by reverse engineers.
+
+
+ Your first step in obfuscating our mini python project: use the cat command and file redirection to concat all of the following python files (in the order specified below):
+ a.py b.py c.py 
+Please name the resulting file:  total.py
+You have two attempts.
+
+
+Attempt 1 of 2. Press ENTER when complete.
+
+File /home/csc15s/mis2/sed_cat/total.py does not exist!
+
+
+Attempt 2 of 2. Press ENTER when complete.
+
+File /home/csc15s/mis2/sed_cat/total.py does not exist!
+
+Failed the challenge ... Press ENTER to continue.
+
+
+Not working.  Press ENTER to continue.
+
+
+You can try it again later. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q4. Sed, Echo & Cat
+Total Points Available: 10, Expected Time to Complete: 400 sec
+Completion: 0%, Time Spent: 3 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q4. Sed, Echo & Cat
+-------------------------------------------
+In many cases, some Linux commands such as echo, cat, sed when combined with file redirection (> and >>), can create files quicker than VIM. This practice will help you to get familiar with these commands for some very typical editing tasks that you would encounter during coding.
+Please navigate to the following directory first.
+
+	 cd /home/csc15s/mis2/sed_cat
+Press ENTER to Continue
+
+Q1. echo echo ...
+  Create file evil.txt with one line of 3 letters 'win'. Please use echo and file redirection. 
+Press ENTER when complete.
+
+The challenge is completed! Press ENTER to continue.
+
+Q2. cat - to concatenate ...
+ In many web projects, tools like jscompress obfuscates  javascript source code by first concatenating them and then replace their variable names by random strings so that the source code would be hard to understand by reverse engineers.
+
+
+ Your first step in obfuscating our mini python project: use the cat command and file redirection to concat all of the following python files (in the order specified below):
+ a.py b.py c.py 
+Please name the resulting file:  total.py
+You have two attempts.
+
+
+Attempt 1 of 2. Press ENTER when complete.
+
+
+Super! Press ENTER to continue.
+
+Q3. sed - replacement ...
+ As the second step of obfuscation, we will replace all occurence of 'rocket' in total.py with 'x2018'.You have two attempts.
+
+
+Attempt 1 of 2. Press ENTER when complete.
+
+
+Well done. Press ENTER to continue.
+
+Q4. sed - insert ...
+ As the last step of obfuscation, let's add the following copyright notice to the 1st line of total.py, using sed.
+# Copyright Dr. Evil 2018
+You have two attempts.
+
+
+Attempt 1 of 2. Press ENTER when complete.
+
+
+Good job! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q4. Sed, Echo & Cat
+Total Points Available: 10, Expected Time to Complete: 400 sec
+Completion: 100%, Time Spent: 136 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+2%139209234----
+427%139209234----
+EMPTY-------------------------------------------
+	Q5. Mission Impossible
+-------------------------------------------
+This is Dr. Evil's favorite movie ...
+
+  Assume that you are Tim Kruise, who has just infiltrated into the Russion Embassy in Prague. You have 300 seconds (5 minutes) in the main computer room. Your job is to retrieve some classified information about Russian's new rocket engine.
+
+  The key to your success is to use the grep and find command well.
+
+  Now navigate to the following directory first.
+	 cd /home/csc15s/mis2/rocket_center
+Ready? Press ENTER to Continue
+
+Q1. The Secret of Rocket
+
+  There is a secret data file that provides every single detail of the new Russion rocket 'aceApollo'. What is its engine thrust? This should be a number between 6000000 and 7000000.
+
+  Hint: use grep well and search for keyword: engine thrust
+
+Enter a number only! (attempt 1 of 2)
+6901056
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Blueprint ...
+
+  The blueprint is stored in a file and its size  is greater than 100kb. Find out its filename.
+
+  Hint: use the find command and query about file size: +100k
+
+Enter the file name (not the file path). It should look like cute.txt (attempt 1 of 2)
+empire.txt
+Correct! Now move to next ... Hit ENTER to continue
+
+Q3. Doom day of Earth ...
+
+  In the directory, there is an executable file (it can be binary executable or shell script), which once executed, will launch the nuclear war that destroys the world. Unfortunately, the permission bits of this file were set that EVERYONE in the system can execute it. What is the name of that file?
+
+  Hint: use the find command and query about permission. Enter the file name (not the file path). It should look like danger.txt (attempt 1 of 2)
+medal.txt
+Correct! Now move to next ... Hit ENTER to continue
+
+Q4. Cheif Designer...
+
+  It is known that there is a text file which contains the list of all rocket engineers, and the name appearing on its first line is the chief designer. The filename has a keyword 'designer' embedded. 
+
+  Hint: use the find command and query about file name. Use wildcard * well in your search pattern. 
+
+Who is the chief designer? We are expecting a name like Dr. Evil. (attempt 1 of 2)
+MiniMe
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q5. Mission Impossible
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 425 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 12.0 out of 15 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 300 seconds: 0%
+  < 2* expected time: 600 seconds: 20%
+  < 3* expected time: 900 seconds: 30%
+  < 4* expected time: 1200 seconds: 40%
+  >= 4* expected time: 1200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q5. Mission Impossible
+-------------------------------------------
+This is Dr. Evil's favorite movie ...
+
+  Assume that you are Tim Kruise, who has just infiltrated into the Russion Embassy in Prague. You have 300 seconds (5 minutes) in the main computer room. Your job is to retrieve some classified information about Russian's new rocket engine.
+
+  The key to your success is to use the grep and find command well.
+
+  Now navigate to the following directory first.
+	 cd /home/csc15s/mis2/rocket_center
+Ready? Press ENTER to Continue
+
+Q1. The Secret of Rocket
+
+  There is a secret data file that provides every single detail of the new Russion rocket 'aceApollo'. What is its engine thrust? This should be a number between 6000000 and 7000000.
+
+  Hint: use grep well and search for keyword: engine thrust
+
+Enter a number only! (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is '6' 
+Enter a number only! (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is '3' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Blueprint ...
+
+  The blueprint is stored in a file and its size  is greater than 100kb. Find out its filename.
+
+  Hint: use the find command and query about file size: +100k
+
+Enter the file name (not the file path). It should look like cute.txt (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is 'c' 
+Enter the file name (not the file path). It should look like cute.txt (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is 't' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q3. Doom day of Earth ...
+
+  In the directory, there is an executable file (it can be binary executable or shell script), which once executed, will launch the nuclear war that destroys the world. Unfortunately, the permission bits of this file were set that EVERYONE in the system can execute it. What is the name of that file?
+
+  Hint: use the find command and query about permission. Enter the file name (not the file path). It should look like danger.txt (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is 'n' 
+Enter the file name (not the file path). It should look like danger.txt (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is 't' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q4. Cheif Designer...
+
+  It is known that there is a text file which contains the list of all rocket engineers, and the name appearing on its first line is the chief designer. The filename has a keyword 'designer' embedded. 
+
+  Hint: use the find command and query about file name. Use wildcard * well in your search pattern. 
+
+Who is the chief designer? We are expecting a name like Dr. Evil. (attempt 1 of 2)
+
+Incorrect!
+ Hint: the 1st letter is 'M' 
+Who is the chief designer? We are expecting a name like Dr. Evil. (attempt 2 of 2)
+
+Incorrect!
+ Hint: the last letter is 'e' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q5. Mission Impossible
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 2 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+307%139209234----
+476%139209234----
+EMPTY-------------------------------------------
+	Q6. Chain of Cmds
+-------------------------------------------
+As a master in software engineering. You will find find -exec a very convenient tool! In this experiement, we will perform a number of routine tasks carried out by a software engineer every day. Please navigate to the following directory first.
+	 cd /home/csc15s/mis2/srcproj
+Ready? Press ENTER to Continue
+
+Q1. Lazy Bird ...
+
+  Your first job is to insert the following copyright notice at the BEGINNING of each c++ source file.
+# Copyright Dr. Evil 2018
+Apparently, you would like to achieve it using one simple Linux command - a combination of find -exec and sed.
+Note that all c++ source files end with file suffix: .cpp
+Press ENTER when done.
+
+
+Good job! Press ENTER to continue.
+
+Q1. Clean Up...
+
+  In many cases, you need to do a build clean to your project. This is achieved by finding all executable files and remove them. You will use the combo of find -exec and rm.
+Hint: search those regular files with permissions a+x. Do not remove directories!
+Press ENTER when done.
+
+You have not removed executable file /home/csc15s/mis2/srcproj/engine/hpp/school0.
+You have not removed executable file /home/csc15s/mis2/srcproj/engine/hpp/part1.
+You have not removed executable file /home/csc15s/mis2/srcproj/engine/logic/minime2.
+You have not removed executable file /home/csc15s/mis2/srcproj/engine/noacc/greet3.
+You have not removed executable file /home/csc15s/mis2/srcproj/modules/doc/moon4.
+
+You can try it again later. Press ENTER to continue.
+
+Q3. Your contribution ...
+
+  In many software companies, contributions of an employee are measured by the Lines of Code (LOC). Assume you are a Python programmer. All your source files are ended with file suffix .py.
+  Your job today is to figure out what is the total number of lines of all Python source files. You can accomplish the task using a combo of find -exec and wc -l
+Hint: wc -l takes multiple files and sum all the lines. For example, wc -l a.txt b.txt c.txt  will compute the sum of all lines in the three text files. In this case, you should consider the {} \+ operator for the find command
+Please enter LOC of all python files below, e.g., 300. (attempt 1 of 2)
+
+Incorrect!
+ Please enter LOC of all python files below, e.g., 300. (attempt 2 of 2)
+
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q6. Chain of Cmds
+Total Points Available: 20, Expected Time to Complete: 360 sec
+Completion: 30%, Time Spent: 169 sec, Accumulated Time:  0 
+Earned Points: 6.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Chain of Cmds
+-------------------------------------------
+As a master in software engineering. You will find find -exec a very convenient tool! In this experiement, we will perform a number of routine tasks carried out by a software engineer every day. Please navigate to the following directory first.
+	 cd /home/csc15s/mis2/srcproj
+Ready? Press ENTER to Continue
+
+Q1. Lazy Bird ...
+
+  Your first job is to insert the following copyright notice at the BEGINNING of each c++ source file.
+# Copyright Dr. Evil 2018
+Apparently, you would like to achieve it using one simple Linux command - a combination of find -exec and sed.
+Note that all c++ source files end with file suffix: .cpp
+Press ENTER when done.
+
+
+Super! Press ENTER to continue.
+
+Q1. Clean Up...
+
+  In many cases, you need to do a build clean to your project. This is achieved by finding all executable files and remove them. You will use the combo of find -exec and rm.
+Hint: search those regular files with permissions a+x. Do not remove directories!
+Press ENTER when done.
+
+
+Done! Press ENTER to continue.
+
+Q3. Your contribution ...
+
+  In many software companies, contributions of an employee are measured by the Lines of Code (LOC). Assume you are a Python programmer. All your source files are ended with file suffix .py.
+  Your job today is to figure out what is the total number of lines of all Python source files. You can accomplish the task using a combo of find -exec and wc -l
+Hint: wc -l takes multiple files and sum all the lines. For example, wc -l a.txt b.txt c.txt  will compute the sum of all lines in the three text files. In this case, you should consider the {} \+ operator for the find command
+Please enter LOC of all python files below, e.g., 300. (attempt 1 of 2)
+find . -name "*.py" -exec wc -1 {} \+
+Incorrect!
+ Please enter LOC of all python files below, e.g., 300. (attempt 2 of 2)
+250
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q6. Chain of Cmds
+Total Points Available: 20, Expected Time to Complete: 360 sec
+Completion: 100%, Time Spent: 307 sec, Accumulated Time:  0 
+Earned Points: 20.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+

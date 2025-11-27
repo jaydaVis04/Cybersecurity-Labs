@@ -1,0 +1,612 @@
+d3J8ed481fbfa4f3c0a275e3910eb752091
+====================================================
+Mission 5: Titanic (80 pts)
+Name: Jaydyn
+Grade: 80.0 pts
+Time Spent: 722 seconds	Accumuated: 1614 seconds
+Timestamp: Thu Nov 14 12:50:57 2024
+
+====================================================
+QID  Title               Pts     Time   QID  Title               Pts     Time   
+----------------------------------------------------
+1    Sail Log            10.0/10 300    2    Heart of Ocean      10.0/10 13     3    Jack's Innocence    15.0/15 35     4    Watchstander        20.0/20 247    5    Saving Titanic      25.0/25 127    
+----------------------------------------------------
+Enter question ID (e.g., 1) to redo a question or hit Q to quit
+%13792012345-------------
+100%139209234----
+300%139209234----
+300%139209234----
+EMPTY-------------------------------------------
+	Q1. Sail Log
+-------------------------------------------
+This assignment is created in memory of 'Titanic', and those days of Dr. Evil with 'my heart will go on'.
+
+Your first job is to study the sailing log of Titanic. Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/saillog 
+
+
+Ready? Press ENTER to continue
+Q1. Redirection.
+
+The giant ship keeps two sailing logs: (1) operation.txt, which keeps the regular sail operations, and (2) alert.txt, which records all the alerts/dangers encountered.
+Apparently, the regular operations are generated through I/O channel stdout, and the alerts are printed through stderr.
+
+Your job: run program sail_log and generate the two required log files. Please pay attention that the file names should match exactly as requested. They should be placed in the current folder: /home/csc15s/mis5/saillog
+
+
+Attempt 1 of 3. Press ENTER when complete.
+
+Q2. Iceberg.
+
+How many Icebergs did the watchman find during the voyage? Hint: use the combination of 'grep' and 'wc'.
+
+Please paste the number (e.g., 43) below. (attempt 1 of 3)
+994
+Correct! Now move to next ... Hit ENTER to continue
+
+
+The challenge is completed! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q1. Sail Log
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 300 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+13%139209234----
+302%139209234----
+EMPTY-------------------------------------------
+	Q2. Heart of Ocean
+-------------------------------------------
+In this challenge, you will help Rose to take our her necklace (Heart of the Ocean) from the safebox. Be prepared that you will have to use PIPE or file redirection to tackle the challenge.
+
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/heart 
+
+
+Ready? Press ENTER to continue
+Q1. Key.
+
+In the current working folder, you will have an executable file: safebox. It's expecting a very long key combination from you. The key is stored in file: key.txt. Dr. Evil believe you have a better way than typing the key letter by letter ...
+
+Please paste the response of the safebox below. (attempt 1 of 3)
+Twinkle Twinkle Little Star!
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Heart of Ocean
+Total Points Available: 10, Expected Time to Complete: 100 sec
+Completion: 100%, Time Spent: 289 sec, Accumulated Time:  0 
+Penalty: 30%, Earned Points: 7.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 100 seconds: 0%
+  < 2* expected time: 200 seconds: 20%
+  < 3* expected time: 300 seconds: 30%
+  < 4* expected time: 400 seconds: 40%
+  >= 4* expected time: 400 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Heart of Ocean
+-------------------------------------------
+In this challenge, you will help Rose to take our her necklace (Heart of the Ocean) from the safebox. Be prepared that you will have to use PIPE or file redirection to tackle the challenge.
+
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/heart 
+
+
+Ready? Press ENTER to continue
+Q1. Key.
+
+In the current working folder, you will have an executable file: safebox. It's expecting a very long key combination from you. The key is stored in file: key.txt. Dr. Evil believe you have a better way than typing the key letter by letter ...
+
+Please paste the response of the safebox below. (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is 'T' 
+Please paste the response of the safebox below. (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '!' 
+Please paste the response of the safebox below. (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'w' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Heart of Ocean
+Total Points Available: 10, Expected Time to Complete: 100 sec
+Completion: 0%, Time Spent: 0 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Heart of Ocean
+-------------------------------------------
+In this challenge, you will help Rose to take our her necklace (Heart of the Ocean) from the safebox. Be prepared that you will have to use PIPE or file redirection to tackle the challenge.
+
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/heart 
+
+
+Ready? Press ENTER to continue
+Q1. Key.
+
+In the current working folder, you will have an executable file: safebox. It's expecting a very long key combination from you. The key is stored in file: key.txt. Dr. Evil believe you have a better way than typing the key letter by letter ...
+
+Please paste the response of the safebox below. (attempt 1 of 3)
+Twinkle Twinkle Little Star!
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Heart of Ocean
+Total Points Available: 10, Expected Time to Complete: 100 sec
+Completion: 100%, Time Spent: 13 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+35%139209234----
+36%139209234----
+EMPTY-------------------------------------------
+	Q3. Jack's Innocence
+-------------------------------------------
+This challenge shows the power of strace
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/strace 
+
+
+Ready? Press ENTER to continue
+Q1. Proof of Innocence.
+
+In the current working folder, you will find an executable file: jack. This program represents the behavior of Jack.
+   You will also find a number of .txt files which represent the object in Rose's room, e.g., 'frig.txt', 'safebox.txt' etc. 
+  It is known that Jack has spent some time in Rose's room and because of this Cal accused Jack of stealing the necklace. 
+
+Your job: prove Jack's innocence by strace the program. Examinewhich files are actually opened by Jack. As long as 'safebox.txt' is not opened, we have proved that Jack is not a thief. Hint: to save your time of inspection, you can combine the use of grep.
+
+Which text file is opened by Jack? Please paste the file name (e.g., 'frig.txt' below. (attempt 1 of 1)
+
+Incorrect!
+ Hint: the 1st letter is 'p' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Jack's Innocence
+Total Points Available: 15, Expected Time to Complete: 100 sec
+Completion: 0%, Time Spent: 1 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Jack's Innocence
+-------------------------------------------
+This challenge shows the power of strace
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/strace 
+
+
+Ready? Press ENTER to continue
+Q1. Proof of Innocence.
+
+In the current working folder, you will find an executable file: jack. This program represents the behavior of Jack.
+   You will also find a number of .txt files which represent the object in Rose's room, e.g., 'frig.txt', 'safebox.txt' etc. 
+  It is known that Jack has spent some time in Rose's room and because of this Cal accused Jack of stealing the necklace. 
+
+Your job: prove Jack's innocence by strace the program. Examinewhich files are actually opened by Jack. As long as 'safebox.txt' is not opened, we have proved that Jack is not a thief. Hint: to save your time of inspection, you can combine the use of grep.
+
+Which text file is opened by Jack? Please paste the file name (e.g., 'frig.txt' below. (attempt 1 of 1)
+paintingToolBox.txt
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Jack's Innocence
+Total Points Available: 15, Expected Time to Complete: 100 sec
+Completion: 100%, Time Spent: 35 sec, Accumulated Time:  0 
+Earned Points: 15.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+247%139209234----
+247%139209234----
+EMPTY-------------------------------------------
+	Q4. Watchstander
+-------------------------------------------
+This challenge shows the power of cron
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/cron 
+
+
+Ready? Press ENTER to continue
+Q1. Watchstander.
+
+In the human history of navy, there is no other posts with greater responsibility than a watchstander on bridge. One needs not only good vision but relentless efforts, patience, and constant focus.
+
+  In the working folder, you will find a program named: watchstander
+
+Your job: use crontab to run watchstander once every minute . In another word, in one hour, we need to see 60 messages printed by watchstander. 
+
+When you are ready to demo. Press ENTER.
+The eval will take 3 minutes (180 seconds) to complete.
+
+
+Good job! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q4. Watchstander
+Total Points Available: 20, Expected Time to Complete: 600 sec
+Completion: 100%, Time Spent: 247 sec, Accumulated Time:  0 
+Earned Points: 20.0 out of 20 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+127%139209234----
+729%139209234----
+EMPTY-------------------------------------------
+	Q5. Saving Titanic
+-------------------------------------------
+Dr. Evil just can't take tragedies. In this mission, Dr. Evil will send you back (as a time traveller!) to 1912. You are equipped with a laser gun and you need to kill incoming icebergs to save Titanic.
+This challenge shows the power of kill
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/kill 
+
+
+Ready? Press ENTER to continue
+Q1. Warm Up.
+
+Imagine icebergs as processes in your system. Colossal icebergs are those who consumes a lot of memory resource (i.e., they are BIG!). 
+Pay special attention: when you check memory attributes of a process, there are actually two: 
+	 VSZ, the virtual memory consumption of a process
+	 RSS, the actual physical memory consumption of a process
+If you treat the memory management of Operating System as a bank. Paper money is the virtual memory, and REAL GOLD is the physical memory. And, apparently, if the bankers are going to make profit, the amount of REAL GOLD is always much much less than that of the paper money. 
+
+Your job: run fatboy as a background process by typing the following: 
+	 ./fatboy &
+Find out what is the memory consumption of fatboy.
+Hint: you need to read manual of ps or top, and find out what arguments to use to show the VSZ and RSS attributes.
+
+What is the virtual memory size of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 50MB
+	D: 500KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+B
+Correct! Now move to next ... Hit ENTER to continue
+
+What is the actual physical memory consumption of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 250MB
+	D: 250KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+A
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+
+Not working.  Press ENTER to continue.
+
+Q2. Kill the Colossal!
+
+Now colossal icebergs (consuming  >200MB physical mem) are coming! Prepare your laser gun. Pay attention that the iceberg may not be named as 'fatboy', it could carry any name!
+
+Hint: if you use the 'ps' command, it's a good idea to sort processes by RSS
+
+Ready? Press ENTER to face the challenge.
+
+Colossal iceberg is coming! Kill it to save Titanic! Seconds Left:    201918171615141312111009080706
+
+Super! Press ENTER to continue.
+
+Q3. Kill the Fast Runner!
+
+This job is similar. There is one iceberg process who runs fast (consming  >50CPU). Kill it to save Titanic.
+
+Ready? Press ENTER to face the challenge.
+
+Save Titanic and Jack! Seconds Left:    2019181716151413121110090807060504030201
+
+It's still not working. Press ENTER to continue.
+
+Q4. Fastest Gunslinger!
+
+Now it's time to test if you are a gunsligner (who can draw and shoot quick!).
+
+There will be quite many iceberg processes coming at you. All named with prefix: 'hellox91_'
+
+Hint: consider the '-r' option of 'killall' which allows you to specify a regular expression pattern.
+
+Ready? Press ENTER to face the challenge.
+
+Ten icebergs are coming! Seconds Left:    2019
+
+Nice! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Saving Titanic
+Total Points Available: 25, Expected Time to Complete: 600 sec
+Completion: 65%, Time Spent: 321 sec, Accumulated Time:  0 
+Earned Points: 16.25 out of 25 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q5. Saving Titanic
+-------------------------------------------
+Dr. Evil just can't take tragedies. In this mission, Dr. Evil will send you back (as a time traveller!) to 1912. You are equipped with a laser gun and you need to kill incoming icebergs to save Titanic.
+This challenge shows the power of kill
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/kill 
+
+
+Ready? Press ENTER to continue
+Q1. Warm Up.
+
+Imagine icebergs as processes in your system. Colossal icebergs are those who consumes a lot of memory resource (i.e., they are BIG!). 
+Pay special attention: when you check memory attributes of a process, there are actually two: 
+	 VSZ, the virtual memory consumption of a process
+	 RSS, the actual physical memory consumption of a process
+If you treat the memory management of Operating System as a bank. Paper money is the virtual memory, and REAL GOLD is the physical memory. And, apparently, if the bankers are going to make profit, the amount of REAL GOLD is always much much less than that of the paper money. 
+
+Your job: run fatboy as a background process by typing the following: 
+	 ./fatboy &
+Find out what is the memory consumption of fatboy.
+Hint: you need to read manual of ps or top, and find out what arguments to use to show the VSZ and RSS attributes.
+
+What is the virtual memory size of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 50MB
+	D: 500KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+B
+Correct! Now move to next ... Hit ENTER to continue
+C
+What is the actual physical memory consumption of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 250MB
+	D: 250KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+C
+Correct! Now move to next ... Hit ENTER to continue
+
+
+Super! Press ENTER to continue.
+
+Q2. Kill the Colossal!
+
+Now colossal icebergs (consuming  >200MB physical mem) are coming! Prepare your laser gun. Pay attention that the iceberg may not be named as 'fatboy', it could carry any name!
+
+Hint: if you use the 'ps' command, it's a good idea to sort processes by RSS
+
+Ready? Press ENTER to face the challenge.
+
+Colossal iceberg is coming! Kill it to save Titanic! Seconds Left:    2019181716151413121110090807060504030201
+
+Failed ... Press ENTER to continue.
+
+Q3. Kill the Fast Runner!
+
+This job is similar. There is one iceberg process who runs fast (consming  >50CPU). Kill it to save Titanic.
+
+Ready? Press ENTER to face the challenge.
+
+Save Titanic and Jack! Seconds Left:    2019181716151413121110090807060504030201
+
+Failed ... Press ENTER to continue.
+
+Q4. Fastest Gunslinger!
+
+Now it's time to test if you are a gunsligner (who can draw and shoot quick!).
+
+There will be quite many iceberg processes coming at you. All named with prefix: 'moonx91_'
+
+Hint: consider the '-r' option of 'killall' which allows you to specify a regular expression pattern.
+
+Ready? Press ENTER to face the challenge.
+
+Ten icebergs are coming! Seconds Left:    2019181716151413121110090807060504030201
+
+Failed ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Saving Titanic
+Total Points Available: 25, Expected Time to Complete: 600 sec
+Completion: 25%, Time Spent: 140 sec, Accumulated Time:  0 
+Earned Points: 6.25 out of 25 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q5. Saving Titanic
+-------------------------------------------
+Dr. Evil just can't take tragedies. In this mission, Dr. Evil will send you back (as a time traveller!) to 1912. You are equipped with a laser gun and you need to kill incoming icebergs to save Titanic.
+This challenge shows the power of kill
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/kill 
+
+
+Ready? Press ENTER to continue
+Q1. Warm Up.
+
+Imagine icebergs as processes in your system. Colossal icebergs are those who consumes a lot of memory resource (i.e., they are BIG!). 
+Pay special attention: when you check memory attributes of a process, there are actually two: 
+	 VSZ, the virtual memory consumption of a process
+	 RSS, the actual physical memory consumption of a process
+If you treat the memory management of Operating System as a bank. Paper money is the virtual memory, and REAL GOLD is the physical memory. And, apparently, if the bankers are going to make profit, the amount of REAL GOLD is always much much less than that of the paper money. 
+
+Your job: run fatboy as a background process by typing the following: 
+	 ./fatboy &
+Find out what is the memory consumption of fatboy.
+Hint: you need to read manual of ps or top, and find out what arguments to use to show the VSZ and RSS attributes.
+
+What is the virtual memory size of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 50MB
+	D: 500KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+B
+Correct! Now move to next ... Hit ENTER to continue
+C
+What is the actual physical memory consumption of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 250MB
+	D: 250KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+C
+Correct! Now move to next ... Hit ENTER to continue
+
+
+Good job! Press ENTER to continue.
+
+Q2. Kill the Colossal!
+
+Now colossal icebergs (consuming  >200MB physical mem) are coming! Prepare your laser gun. Pay attention that the iceberg may not be named as 'fatboy', it could carry any name!
+
+Hint: if you use the 'ps' command, it's a good idea to sort processes by RSS
+
+Ready? Press ENTER to face the challenge.
+
+Colossal iceberg is coming! Kill it to save Titanic! Seconds Left:    201918171615141312111009
+
+Nice! Press ENTER to continue.
+
+Q3. Kill the Fast Runner!
+
+This job is similar. There is one iceberg process who runs fast (consming  >50CPU). Kill it to save Titanic.
+
+Ready? Press ENTER to face the challenge.
+
+Save Titanic and Jack! Seconds Left:    20191817161514
+
+The challenge is completed! Press ENTER to continue.
+
+Q4. Fastest Gunslinger!
+
+Now it's time to test if you are a gunsligner (who can draw and shoot quick!).
+
+There will be quite many iceberg processes coming at you. All named with prefix: 'assignmentx91_'
+
+Hint: consider the '-r' option of 'killall' which allows you to specify a regular expression pattern.
+
+Ready? Press ENTER to face the challenge.
+
+Ten icebergs are coming! Seconds Left:    2019181716151413121110090807060504030201
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Saving Titanic
+Total Points Available: 25, Expected Time to Complete: 600 sec
+Completion: 75%, Time Spent: 141 sec, Accumulated Time:  0 
+Earned Points: 18.75 out of 25 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q5. Saving Titanic
+-------------------------------------------
+Dr. Evil just can't take tragedies. In this mission, Dr. Evil will send you back (as a time traveller!) to 1912. You are equipped with a laser gun and you need to kill incoming icebergs to save Titanic.
+This challenge shows the power of kill
+Please navigate to the following directory first.
+	 cd /home/csc15s/mis5/kill 
+
+
+Ready? Press ENTER to continue
+Q1. Warm Up.
+
+Imagine icebergs as processes in your system. Colossal icebergs are those who consumes a lot of memory resource (i.e., they are BIG!). 
+Pay special attention: when you check memory attributes of a process, there are actually two: 
+	 VSZ, the virtual memory consumption of a process
+	 RSS, the actual physical memory consumption of a process
+If you treat the memory management of Operating System as a bank. Paper money is the virtual memory, and REAL GOLD is the physical memory. And, apparently, if the bankers are going to make profit, the amount of REAL GOLD is always much much less than that of the paper money. 
+
+Your job: run fatboy as a background process by typing the following: 
+	 ./fatboy &
+Find out what is the memory consumption of fatboy.
+Hint: you need to read manual of ps or top, and find out what arguments to use to show the VSZ and RSS attributes.
+
+What is the virtual memory size of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 50MB
+	D: 500KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+B
+Correct! Now move to next ... Hit ENTER to continue
+
+What is the actual physical memory consumption of fatboy?
+	A: 5GB
+	B: 500MB
+	C: 250MB
+	D: 250KB
+Type one letter only (e.g., A) (attempt 1 of 1)
+C
+Correct! Now move to next ... Hit ENTER to continue
+
+
+Super! Press ENTER to continue.
+
+Q2. Kill the Colossal!
+
+Now colossal icebergs (consuming  >200MB physical mem) are coming! Prepare your laser gun. Pay attention that the iceberg may not be named as 'fatboy', it could carry any name!
+
+Hint: if you use the 'ps' command, it's a good idea to sort processes by RSS
+
+Ready? Press ENTER to face the challenge.
+
+Colossal iceberg is coming! Kill it to save Titanic! Seconds Left:    20191817161514
+
+Well done. Press ENTER to continue.
+
+Q3. Kill the Fast Runner!
+
+This job is similar. There is one iceberg process who runs fast (consming  >50CPU). Kill it to save Titanic.
+
+Ready? Press ENTER to face the challenge.
+
+Save Titanic and Jack! Seconds Left:    20191817161514
+
+Super! Press ENTER to continue.
+
+Q4. Fastest Gunslinger!
+
+Now it's time to test if you are a gunsligner (who can draw and shoot quick!).
+
+There will be quite many iceberg processes coming at you. All named with prefix: 'empirex91_'
+
+Hint: consider the '-r' option of 'killall' which allows you to specify a regular expression pattern.
+
+Ready? Press ENTER to face the challenge.
+
+Ten icebergs are coming! Seconds Left:    201918
+
+Well done. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Saving Titanic
+Total Points Available: 25, Expected Time to Complete: 600 sec
+Completion: 100%, Time Spent: 127 sec, Accumulated Time:  0 
+Earned Points: 25.0 out of 25 
+-----------------------------------
+Press ENTER to continue
+

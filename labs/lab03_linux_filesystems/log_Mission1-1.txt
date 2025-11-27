@@ -1,0 +1,1647 @@
+99J89909ca4b2321b7a8df97e3647d260cf
+====================================================
+Mission1: Hell of Linux Files (80 pts)
+Name: Jaydyn
+Grade: 80.0 pts
+Time Spent: 842 seconds	Accumuated: 5012 seconds
+Timestamp: Tue Oct  1 12:43:43 2024
+
+====================================================
+QID  Title               Pts     Time   QID  Title               Pts     Time   
+----------------------------------------------------
+1    Create Dir          5.0/5   14     2    Simple List         5.0/5   61     3    Dir Navigation      10.0/10 42     4    Kill Files          10.0/10 82     5    Make Copies         15.0/15 292    6    Move Files          10.0/10 151    7    Set Perimssions     15.0/15 194    8    Run Shell Script    10.0/10 6      
+----------------------------------------------------
+Enter question ID (e.g., 1) to redo a question or hit Q to quit
+%13792012345-------------
+100%139209234----
+14%139209234----
+391%139209234----
+EMPTY-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'warcraft' inside q_makedir101
+	(2) Create another directory 'numbertwo' inside 'warcraft' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 111 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'fun' inside q_makedir101
+	(2) Create another directory 'moon' inside 'fun' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+Hint: Not working! Note EvilTrainer is testing the existence of /home/csc15s/mis1/q_makedir101/fun/moon
+
+Hint: Not working! Note EvilTrainer is testing the existence of /home/csc15s/mis1/q_makedir101/fun/moon
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 86 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'dog' inside q_makedir101
+	(2) Create another directory 'city' inside 'dog' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 33 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'sun' inside q_makedir101
+	(2) Create another directory 'nice' inside 'sun' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+Hint: Not working! Note EvilTrainer is testing the existence of /home/csc15s/mis1/q_makedir101/sun/nice
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 84 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'duty' inside q_makedir101
+	(2) Create another directory 'greet' inside 'duty' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 46 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'nice' inside q_makedir101
+	(2) Create another directory 'greet' inside 'nice' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 17 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q1. Create Dir
+-------------------------------------------
+EvilTrainer has created a new folder named q_makedir101 in /home/csc15s/mis1.
+Your job:
+	(1) Create a new directory named 'part' inside q_makedir101
+	(2) Create another directory 'numbertwo' inside 'part' 
+Hint: you can actually accomplish all using just one command
+Hit enter key when you complete the challenge. You have up to 3 chances.
+
+-----------------------------------
+Grades Report: Q1. Create Dir
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 14 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+61%139209234----
+302%139209234----
+EMPTY-------------------------------------------
+	Q2. Simple List
+-------------------------------------------
+Please run the following command to navigate to the target folder:
+cd /home/csc15s/mis1/simple123
+Now answer the questions rearding file:  city.txt.
+What is the owner user of  the file? (attempt 1 of 3)
+stu104
+Correct! Now move to next ... Hit ENTER to continue
+
+What is the group of  the file? (attempt 1 of 3)
+stu103
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 execute the file? (y/n) (attempt 1 of 1)
+n
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+Can stu104 read the file? (y/n) (attempt 1 of 1)
+y
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+Can stu104 write the file? (y/n) (attempt 1 of 1)
+n
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Simple List
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 60%, Time Spent: 74 sec, Accumulated Time:  0 
+Earned Points: 3.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Simple List
+-------------------------------------------
+Please run the following command to navigate to the target folder:
+cd /home/csc15s/mis1/simple123
+Now answer the questions rearding file:  good.txt.
+What is the owner user of  the file? (attempt 1 of 3)
+stu102
+Correct! Now move to next ... Hit ENTER to continue
+
+What is the group of  the file? (attempt 1 of 3)
+stu103
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu102 execute the file? (y/n) (attempt 1 of 1)
+n
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+Can stu102 read the file? (y/n) (attempt 1 of 1)
+y
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+Can stu102 write the file? (y/n) (attempt 1 of 1)
+
+Incorrect!
+ Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Simple List
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 40%, Time Spent: 42 sec, Accumulated Time:  0 
+Earned Points: 2.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Simple List
+-------------------------------------------
+Please run the following command to navigate to the target folder:
+cd /home/csc15s/mis1/simple123
+Now answer the questions rearding file:  part.txt.
+What is the owner user of  the file? (attempt 1 of 3)
+stu104
+Correct! Now move to next ... Hit ENTER to continue
+
+What is the group of  the file? (attempt 1 of 3)
+stu104
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 execute the file? (y/n) (attempt 1 of 1)
+y
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 read the file? (y/n) (attempt 1 of 1)
+n
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 write the file? (y/n) (attempt 1 of 1)
+n
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Simple List
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 125 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 4.0 out of 5 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 120 seconds: 0%
+  < 2* expected time: 240 seconds: 20%
+  < 3* expected time: 360 seconds: 30%
+  < 4* expected time: 480 seconds: 40%
+  >= 4* expected time: 480 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q2. Simple List
+-------------------------------------------
+Please run the following command to navigate to the target folder:
+cd /home/csc15s/mis1/simple123
+Now answer the questions rearding file:  cat.txt.
+What is the owner user of  the file? (attempt 1 of 3)
+stu104
+Correct! Now move to next ... Hit ENTER to continue
+
+What is the group of  the file? (attempt 1 of 3)
+stu103
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 execute the file? (y/n) (attempt 1 of 1)
+y
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 read the file? (y/n) (attempt 1 of 1)
+n
+Correct! Now move to next ... Hit ENTER to continue
+
+Can stu104 write the file? (y/n) (attempt 1 of 1)
+n
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q2. Simple List
+Total Points Available: 5, Expected Time to Complete: 120 sec
+Completion: 100%, Time Spent: 61 sec, Accumulated Time:  0 
+Earned Points: 5.0 out of 5 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+42%139209234----
+1214%139209234----
+EMPTY-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+q
+Incorrect!
+ Hint: the 1st letter is '/' 
+Paste the output of 'pwd' below? (attempt 2 of 3)
+a
+Incorrect!
+ Hint: the last letter is 's' 
+Paste the output of 'pwd' below? (attempt 3 of 3)
+a
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '3' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 318 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 0.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 300 seconds: 0%
+  < 2* expected time: 600 seconds: 20%
+  < 3* expected time: 900 seconds: 30%
+  < 4* expected time: 1200 seconds: 40%
+  >= 4* expected time: 1200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '3' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 112 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '3' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 31 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s/mis1/lectures/lec4/sample3
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s/mis1/lectures
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 530 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 8.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 300 seconds: 0%
+  < 2* expected time: 600 seconds: 20%
+  < 3* expected time: 900 seconds: 30%
+  < 4* expected time: 1200 seconds: 40%
+  >= 4* expected time: 1200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s/mis1/lectures/lec4/sample3
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s/mis1/lectures
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 44 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '3' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 30%, Time Spent: 33 sec, Accumulated Time:  0 
+Earned Points: 3.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+/home/csc15s/mis1/lectures/lec1/sample2
+Incorrect!
+ Hint: the last letter is '3' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+/home/csc15s/mis1/lectures/lec1/sample3
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+/home/csc15s/mis1/lectures/lec4/sample3
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+/home/csc15s/mis1/lectures
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 70%, Time Spent: 104 sec, Accumulated Time:  0 
+Earned Points: 7.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q3. Dir Navigation
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.  We will use the 'cd' command to navigate this folder.
+
+Q1. Home ... Home ...
+Let's navigate to your home folder first.  Hint: it's a simpel 2-letter command. Make sure that you are user csc15s. 
+Paste the output of 'pwd' below? (attempt 1 of 3)
+/home/csc15s
+Correct! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Ancestors ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'sample3' folder of 'lec4'. Hint: use '..'
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+cd /home/csc15s/mis1/lectures/lec4/sample3
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '3' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+Q2. Parent ... Again
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample2
+Now use just ONE Linux command to navigate to the 'lectures' folder (that is two levels up)
+Once it's completed, paste the output of 'pwd' below? (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is '/' 
+Once it's completed, paste the output of 'pwd' below? (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is 's' 
+Once it's completed, paste the output of 'pwd' below? (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'h' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q3. Dir Navigation
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 30%, Time Spent: 42 sec, Accumulated Time:  0 
+Earned Points: 3.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+82%139209234----
+386%139209234----
+EMPTY-------------------------------------------
+	Q4. Kill Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'rm' command in this folder.
+
+Q1. Kill one ... but just one ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample1
+You need to kill a file named 'note2.txt'.
+Hit ENTER when ready.
+
+Good job!
+
+Hit ENTER to continue ...
+
+Q2. Kill a Folder ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures
+You need to kill the entire 'lec1' folder with just one command.
+Hit ENTER when ready.
+
+Done!
+Hit ENTER to continue ...
+
+Q3. Kill All Programs ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec3/sample2/
+Do an 'ls' command first. You will notice that there are a lot of object files -- they have file suffix '.o'. Kill them all with one command.
+Hit ENTER when ready. Hint: use wildcard match '*' in your command. 
+ls
+You have not removed /home/csc15s/mis1/lectures/lec3/sample2/prog1.o yet!
+
+Hit ENTER to continue ...
+
+-----------------------------------
+Grades Report: Q4. Kill Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 60%, Time Spent: 146 sec, Accumulated Time:  0 
+Earned Points: 6.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q4. Kill Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'rm' command in this folder.
+
+Q1. Kill one ... but just one ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample1
+You need to kill a file named 'note2.txt'.
+Hit ENTER when ready.
+
+/home/csc15s/mis1/lectures/lec1/sample1/note2.txt is still there! Try again.
+Hit ENTER to continue ...
+
+Q2. Kill a Folder ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures
+You need to kill the entire 'lec1' folder with just one command.
+Hit ENTER when ready.
+
+/home/csc15s/mis1/lectures/lec1 is still there! Try again.
+Hit ENTER to continue ...
+
+Q3. Kill All Programs ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec3/sample2/
+Do an 'ls' command first. You will notice that there are a lot of object files -- they have file suffix '.o'. Kill them all with one command.
+Hit ENTER when ready. Hint: use wildcard match '*' in your command. 
+
+You have not removed /home/csc15s/mis1/lectures/lec3/sample2/prog1.o yet!
+
+Hit ENTER to continue ...
+
+-----------------------------------
+Grades Report: Q4. Kill Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 25 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q4. Kill Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'rm' command in this folder.
+
+Q1. Kill one ... but just one ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample1
+You need to kill a file named 'note2.txt'.
+Hit ENTER when ready.
+
+Good job!
+
+Hit ENTER to continue ...
+
+Q2. Kill a Folder ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures
+You need to kill the entire 'lec1' folder with just one command.
+Hit ENTER when ready.
+
+/home/csc15s/mis1/lectures/lec1 is still there! Try again.
+Hit ENTER to continue ...
+
+Q3. Kill All Programs ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec3/sample2/
+Do an 'ls' command first. You will notice that there are a lot of object files -- they have file suffix '.o'. Kill them all with one command.
+Hit ENTER when ready. Hint: use wildcard match '*' in your command. 
+
+Great!
+Hit ENTER to continue ...
+\
+-----------------------------------
+Grades Report: Q4. Kill Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 70%, Time Spent: 133 sec, Accumulated Time:  0 
+Earned Points: 7.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q4. Kill Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'rm' command in this folder.
+
+Q1. Kill one ... but just one ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec1/sample1
+You need to kill a file named 'note2.txt'.
+Hit ENTER when ready.
+
+Good job!
+
+Hit ENTER to continue ...
+
+Q2. Kill a Folder ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures
+You need to kill the entire 'lec1' folder with just one command.
+Hit ENTER when ready.
+
+Done!
+Hit ENTER to continue ...
+
+Q3. Kill All Programs ... 
+Please execute the following command first
+cd /home/csc15s/mis1/lectures/lec3/sample2/
+Do an 'ls' command first. You will notice that there are a lot of object files -- they have file suffix '.o'. Kill them all with one command.
+Hit ENTER when ready. Hint: use wildcard match '*' in your command. 
+
+Great!
+Hit ENTER to continue ...
+
+-----------------------------------
+Grades Report: Q4. Kill Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 82 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+292%139209234----
+989%139209234----
+EMPTY-------------------------------------------
+	Q5. Make Copies
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'cp' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to copy note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+The new file /home/csc15s/mis1/lectures/lec3/sample2/note1.txt does not have the same content as src file /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+Failed the challenge ... Press ENTER to continue.
+
+Q2. Copy Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to copy the entire lec2/ folder into sample3 of lec3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/lec3/sample3/lec2/sample3/note1.txt
+
+Failed the challenge ... Press ENTER to continue.
+
+Q2. Yet Another Copy ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to copy the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+It's still not working. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Make Copies
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 290 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q5. Make Copies
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'cp' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to copy note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+
+Nice! Press ENTER to continue.
+
+Q2. Copy Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to copy the entire lec2/ folder into sample3 of lec3.
+
+
+Done! Press ENTER to continue.
+
+Q2. Yet Another Copy ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to copy the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+
+Super! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Make Copies
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 407 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 12.0 out of 15 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 300 seconds: 0%
+  < 2* expected time: 600 seconds: 20%
+  < 3* expected time: 900 seconds: 30%
+  < 4* expected time: 1200 seconds: 40%
+  >= 4* expected time: 1200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q5. Make Copies
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'cp' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to copy note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+The new file /home/csc15s/mis1/lectures/lec3/sample2/note1.txt does not have the same content as src file /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+You can try it again later. Press ENTER to continue.
+
+Q2. Copy Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to copy the entire lec2/ folder into sample3 of lec3.
+
+
+The challenge is completed! Press ENTER to continue.
+
+Q2. Yet Another Copy ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to copy the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+
+Nice! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q5. Make Copies
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 70%, Time Spent: 292 sec, Accumulated Time:  0 
+Earned Points: 10.50 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+151%139209234----
+1306%139209234----
+EMPTY-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+You can try it again later. Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec2/sample3/note1.txt
+
+Not working.  Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 85 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+mv ../sample3/note1.txt .
+Failed ... You should remove /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+Failed the challenge ... Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec2/sample3/note1.txt
+
+Failed the challenge ... Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec3/sample3/note1.txt
+
+Failed the challenge ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 157 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+Not working.  Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec2/sample3/note1.txt
+
+Not working.  Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+Not working.  Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 95 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec2/sample3/note1.txt
+
+You can try it again later. Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec3/sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 54 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec1/sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+Failed ... You should remove /home/csc15s/mis1/lectures/lec2/sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 94 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+
+Nice! Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+
+Good job! Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+mv lec3/sample3/ ./old_sample3
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+Not working.  Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 60%, Time Spent: 176 sec, Accumulated Time:  0 
+Earned Points: 6.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+
+Super! Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+
+The challenge is completed! Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+Failed ... Press ENTER to continue.
+[2~
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 60%, Time Spent: 180 sec, Accumulated Time:  0 
+Earned Points: 6.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+
+Well done. Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+
+Nice! Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+We could not locate the desitination file: /home/csc15s/mis1/lectures/old_sample3/note1.txt
+
+You can try it again later. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 60%, Time Spent: 314 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 4.80 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 300 seconds: 0%
+  < 2* expected time: 600 seconds: 20%
+  < 3* expected time: 900 seconds: 30%
+  < 4* expected time: 1200 seconds: 40%
+  >= 4* expected time: 1200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q6. Move Files
+-------------------------------------------
+Dr. Evil saves his course materials in a folder called 'lectures'. There are subfolders such as 'lec1', 'lec2' ... 'lec5', and inside each there are sample folders such as 'sample1', 'sample2' ... 'sample5'.
+  We will practice the 'mv' command in this folder.
+
+Q1. One But Just One ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures/lec3/sample2/
+
+Your job is to move note1.txt from sample3 of lec1, and overwrite the existing note1.txt in lec3/sample2. Hint: use '..' well in your command. Hit ENTER when ready. 
+
+
+Done! Press ENTER to continue.
+
+Q2. Move Entire Folder ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec2/ folder into sample3 of lec3.
+
+
+Nice! Press ENTER to continue.
+
+Q2. Yet Another Move ... 
+Please execute the following command first:
+	cd /home/csc15s/mis1/lectures
+
+Your job is to move the entire lec3/sample3 folder into lectures/, and rename it to old_sample3. That is: the lectures/ folder will have lec1... lec5, and also old_sample3.
+
+
+Well done. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q6. Move Files
+Total Points Available: 10, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 151 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+194%139209234----
+327%139209234----
+EMPTY-------------------------------------------
+	Q7. Set Perimssions
+-------------------------------------------
+This challenge will help you to practice the use of chmod. Please execute the following command first. There is a file 'hackme.txt' in the directory.
+	 cd /home/csc15s/mis1/chmod_prac
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	-w--w---x
+Press ENTER when ready.
+>>
+The expected permission is: -w--w---x, but the actual permission is -w--wx--x
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	rwxrwxrw-
+Press ENTER when ready.
+>>
+The expected permission is: rwxrwxrw-, but the actual permission is -w--wx--x
+
+Failed ... Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	---rw---x
+Press ENTER when ready.
+>>
+The expected permission is: ---rw---x, but the actual permission is -w--wx--x
+
+Failed the challenge ... Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	--x-w--wx
+Press ENTER when ready.
+>>
+The expected permission is: --x-w--wx, but the actual permission is -w--wx--x
+
+It's still not working. Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	---r-x-wx
+Press ENTER when ready.
+>>
+The expected permission is: ---r-x-wx, but the actual permission is -w--wx--x
+
+It's still not working. Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q7. Set Perimssions
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 0%, Time Spent: 133 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q7. Set Perimssions
+-------------------------------------------
+This challenge will help you to practice the use of chmod. Please execute the following command first. There is a file 'hackme.txt' in the directory.
+	 cd /home/csc15s/mis1/chmod_prac
+Ready? Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	r-xrw-rw-
+Press ENTER when ready.
+>>
+
+Nice! Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	-w-rw--w-
+Press ENTER when ready.
+>>
+
+Well done. Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	r-x-w--w-
+Press ENTER when ready.
+>>
+
+Well done. Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	rwx----w-
+Press ENTER when ready.
+>>
+
+Nice! Press ENTER to continue.
+
+Please set the permission bits of hackme.txt as the following. 
+	r-x---rw-
+Press ENTER when ready.
+>>
+
+Nice! Press ENTER to continue.
+
+-----------------------------------
+Grades Report: Q7. Set Perimssions
+Total Points Available: 15, Expected Time to Complete: 300 sec
+Completion: 100%, Time Spent: 194 sec, Accumulated Time:  0 
+Earned Points: 15.0 out of 15 
+-----------------------------------
+Press ENTER to continue
+
+%13792012345-------------
+100%139209234----
+6%139209234----
+97%139209234----
+EMPTY-------------------------------------------
+	Q8. Run Shell Script
+-------------------------------------------
+Please navigate to the following directory first:
+	 cd /home/csc15s/mis1/chmodShell
+You will find a shell script named drevil.sh. Somehow this file's permission is not set correctly.
+Your job: reset its permission bits and find out the magic string that it prints!
+
+Please paste the magic string below. (attempt 1 of 3)
+part100
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q8. Run Shell Script
+Total Points Available: 10, Expected Time to Complete: 50 sec
+Completion: 100%, Time Spent: 75 sec, Accumulated Time:  0 
+Penalty: 20%, Earned Points: 8.0 out of 10 
+-----------------------------------
+Time penalty is defined as below:
+  <= expected time: 50 seconds: 0%
+  < 2* expected time: 100 seconds: 20%
+  < 3* expected time: 150 seconds: 30%
+  < 4* expected time: 200 seconds: 40%
+  >= 4* expected time: 200 seconds: 50%
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q8. Run Shell Script
+-------------------------------------------
+Please navigate to the following directory first:
+	 cd /home/csc15s/mis1/chmodShell
+You will find a shell script named drevil.sh. Somehow this file's permission is not set correctly.
+Your job: reset its permission bits and find out the magic string that it prints!
+
+Please paste the magic string below. (attempt 1 of 3)
+fun100
+Correct! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q8. Run Shell Script
+Total Points Available: 10, Expected Time to Complete: 50 sec
+Completion: 100%, Time Spent: 16 sec, Accumulated Time:  0 
+Earned Points: 10.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+
+-------------------------------------------
+	Q8. Run Shell Script
+-------------------------------------------
+Please navigate to the following directory first:
+	 cd /home/csc15s/mis1/chmodShell
+You will find a shell script named drevil.sh. Somehow this file's permission is not set correctly.
+Your job: reset its permission bits and find out the magic string that it prints!
+
+Please paste the magic string below. (attempt 1 of 3)
+
+Incorrect!
+ Hint: the 1st letter is 'd' 
+
+
+Please paste the magic string below. (attempt 2 of 3)
+
+Incorrect!
+ Hint: the last letter is '0' 
+
+
+Please paste the magic string below. (attempt 3 of 3)
+
+Incorrect!
+ Hint: the 2nd letter is 'o' 
+Incorrect! Now move to next ... Hit ENTER to continue
+
+-----------------------------------
+Grades Report: Q8. Run Shell Script
+Total Points Available: 10, Expected Time to Complete: 50 sec
+Completion: 0%, Time Spent: 6 sec, Accumulated Time:  0 
+Earned Points: 0.0 out of 10 
+-----------------------------------
+Press ENTER to continue
+

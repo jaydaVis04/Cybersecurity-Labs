@@ -11,16 +11,16 @@ Linux Security & Administration, Network Security & Monitoring, Threat Analysis 
 ## Directory Structure
 
 labs/
-├── lab01_vm_vim
-├── lab02_advanced_vim_openredalert
-├── lab03_linux_filesystems
-├── lab04_crypto_hashes
-├── lab05_symmetric_crypto_suid
-├── lab06_pki_apache
-├── lab07_design_processes
-├── lab08_networking
-├── lab09_ldap_sso
-└── lab10_nfs
+lab01_vm_vim
+lab02_advanced_vim_openredalert
+lab03_linux_filesystems
+lab04_crypto_hashes
+lab05_symmetric_crypto_suid
+lab06_pki_apache
+lab07_design_processes
+lab08_networking
+lab09_ldap_sso
+lab10_nfs
 
 
 ---
